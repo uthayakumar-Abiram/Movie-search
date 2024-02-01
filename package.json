@@ -1,5 +1,4 @@
-{
-  "name": "movie",
+{"homepage": "https://uthayakumar-abiram.github.io/Movie-search",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -23,12 +22,16 @@
       "react-app/jest"
     ]
   },
+    "devDependencies": {
+    "gh-pages": "^6.1.1"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
       "not dead",
       "not op_mini all"
     ],
+    
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
